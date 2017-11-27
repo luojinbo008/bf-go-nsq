@@ -3,7 +3,7 @@ package consumer
 import (
 	"log"
 	"github.com/nsqio/go-nsq"
-	"bf-go-nsq/nsqlog"
+	"github.com/luojinbo008/bf-go-nsq/nsqlog"
 )
 
 type topicChan struct {
